@@ -1,0 +1,35 @@
+h1{
+    color:#00FEF6;
+    font-size:90px;
+    font-family: 'Neonderthaw', cursive;
+  }
+#menu{
+      color:aqua;
+      list-style:none;
+      position: absolute;
+      top: 10px;
+      right:30px;
+      z-index:10;
+      cursor:pointer;
+      font-family: 'Dancing Script', cursive;  
+      font-size:40px; 
+      border-style:solid;
+      border-color:#d26fee;
+      border-radius:5px;
+      border-width:9px;
+      text-align:justify;
+     }
+body{
+      background-color: black;
+}
+p{
+    color:rgba(255, 255, 0, 0.966);
+    font-family: 'Pacifico', cursive; 
+    font-size:25px; 
+    border-style:solid;
+    border-color:#d26fee;
+    border-radius:5px;
+    border-width:9px;
+    text-align:justify;
+
+}
